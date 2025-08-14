@@ -22,7 +22,7 @@ Esse portfólio foi criado como parte do meu aprendizado contínuo no desenvolvi
 
 Sou **Vitoria Sant'Ana**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Front-End**. Em minha jornada, busco sempre melhorar minhas habilidades técnicas, além de estar aberta a novos desafios profissionais.
 
-ACESSE O PROJETO:
+ACESSE O PORTFOLIO:
 https://silva01123.github.io/Portfolio-Vitoria-Sant-Ana/
 
 
